@@ -1,8 +1,8 @@
 ### Hi there 👋
-📕 Junior at Tsinghua university , major in MPS & Software
-💻 Learning around  LLM & agent
-🏐 Love volleyball / gym workingout / tennis / hiking ...... 
-📧 Reach me : dangyf2003@gmail.com 
+- 📕 Junior at Tsinghua university , major in MPS & Software
+- 💻 Learning around  LLM & agent
+- 🏐 Love volleyball / gym workingout / tennis / hiking ...... 
+- 📧 Reach me : dangyf2003@gmail.com 
 
 <!--
 **NA-Wen/NA-Wen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
