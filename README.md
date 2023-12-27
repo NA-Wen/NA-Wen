@@ -4,3 +4,4 @@
  - 🏐 Love volleyball / gym workingout / tennis / hiking ......
  - 🧀 Personal website and tech blogs in : [NA-Wen's website](https://na-wen.github.io/) (still work in process🥺)
  - 📧 Reach me : dangyf2003@gmail.com
+[![NA-Wen's GitHub stats](https://github-readme-stats.vercel.app/api?username=NA-Wen)](https://github.com/anuraghazra/github-readme-stats)
